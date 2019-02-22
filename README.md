@@ -19,8 +19,8 @@ git clone https://github.com/maylamolinari/Input-to-creat-Heatmap.git
 
 ## Prerequisites
 
-Python installed in your machine
-Excel file with each libraries log2FDC/or average GO log2FDC in each sheet (file name need to be excel.xlsx)
+* Python installed in your machine
+* Excel file with each libraries log2FDC/or average GO log2FDC in each sheet (file name need to be excel.xlsx)
 
 ## Installing
 
