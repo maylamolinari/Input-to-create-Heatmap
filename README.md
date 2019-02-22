@@ -1,5 +1,5 @@
 # Excel Sheets' Joiner
-This script was made to join multiple excel sheets (from a unique excel file) that each sheet corresponds to a log2FC result for a list of genes. It generates a excel sheet output containing all the samples in the same sheet, with the gene name as the first column and the value of the samples' log2FC corresponding to those gene list at the next columns.
+This script was made to join multiple excel sheets (of a unique excel file) that each sheet corresponds to a log2FC result for a list of genes. It generates a excel sheet output containing all the samples in the same sheet, with the gene name as the first column and the value of the samples' log2FC corresponding to those gene list at the next columns.
 The output of this simple script can be used as an input to other *sofwares* like [agriGO](http://bioinfo.cau.edu.cn/agriGO/analysis.php) and heatmap creator softwares such as:
 
 * [Gene-E](https://software.broadinstitute.org/GENE-E/)
