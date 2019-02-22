@@ -1,13 +1,12 @@
-# Input-to-create-Heatmap
-Script creates an excel file comparing expression levels of same gene in all libraries. You can use this script like input to PAGE agriGO and a lot of different heatmap softwares.
+# Excel Sheets Joiner
+This script was made to join multiple excel sheets (from a unique excel file) that each sheet corresponds to a log2FC result for a list of genes. It generates a excel sheet output containing all the samples in the same sheet, with the gene name as the first column and the value of the samples' log2FC corresponding to those gene list at the next columns.
+The output of this simple script can be used as an input to other *sofwares* like [agriGO](http://bioinfo.cau.edu.cn/agriGO/analysis.php) and heatmap creator softwares such as:
 
-Parametric Analysis of Gene Set Enrichment-PAGE (http://bioinfo.cau.edu.cn/agriGO/analysis.php)
+* [Gene-E](https://software.broadinstitute.org/GENE-E/)
 
-Gene-E heatmap (https://software.broadinstitute.org/GENE-E/)
+* [Heatmapper](http://www.heatmapper.ca/)
 
-Heatmapper heatmap (http://www.heatmapper.ca/)
-
-Clustvis heatmap and PCA (https://biit.cs.ut.ee/clustvis/)
+* [Clustvis](https://biit.cs.ut.ee/clustvis/)
 
 ## Getting Started
 
@@ -43,6 +42,3 @@ After you run the join.py script, it will prompt for excel.xlsx file, containing
 ## License
 
 Open-source
-
-
-
