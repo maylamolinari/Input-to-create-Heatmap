@@ -9,6 +9,14 @@ Heatmapper heatmap (http://www.heatmapper.ca/)
 
 Clustvis heatmap and PCA (https://biit.cs.ut.ee/clustvis/)
 
+# Getting Started
+
+Clone this repository into your local machine
+
+```
+https://github.com/maylamolinari/Input-to-creat-Heatmap.git
+```
+
 # Prerequisites
 
 Python installed in your machine
@@ -18,7 +26,9 @@ Excell file with each libraries log2FDC/or average GO log2FDC in each sheet
 
 No installation is required, the script is ready to use (executable).
 
+```
 python join.py excel.xlsx
+```
 
 # Usage
 
