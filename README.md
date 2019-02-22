@@ -1,4 +1,4 @@
-# Input-to-creat-Heatmap
+# Input-to-create-Heatmap
 Script creates an excel file comparing expression levels of same gene in all libraries. You can use this script like input to PAGE agriGO and a lot of different heatmap softwares.
 
 Parametric Analysis of Gene Set Enrichment-PAGE (http://bioinfo.cau.edu.cn/agriGO/analysis.php)
