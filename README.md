@@ -9,7 +9,7 @@ Heatmapper heatmap (http://www.heatmapper.ca/)
 
 Clustvis heatmap and PCA (https://biit.cs.ut.ee/clustvis/)
 
-# Getting Started
+## Getting Started
 
 Clone this repository into your local machine
 
@@ -17,12 +17,12 @@ Clone this repository into your local machine
 https://github.com/maylamolinari/Input-to-creat-Heatmap.git
 ```
 
-# Prerequisites
+## Prerequisites
 
 Python installed in your machine
 Excell file with each libraries log2FDC/or average GO log2FDC in each sheet 
 
-# Installing
+## Installing
 
 No installation is required, the script is ready to use (executable).
 
@@ -30,16 +30,16 @@ No installation is required, the script is ready to use (executable).
 python join.py excel.xlsx
 ```
 
-# Usage
+## Usage
 
-To ran the join.py script, it will prompt for excel.xlsx file, containing 2 columns per sheet, just the first column need to be named GeneName. You can use how much sheet you want.
+After you run the join.py script, it will prompt for excel.xlsx file, containing 2 columns per sheet, just the first column need to be named GeneName. You can use how many sheet you want.
 
-# Authors
+## Authors
 
-Mayla Daiane Correa molinari - Initial work - maylamolinari
-Fernanda Luz P Costa - Initial work - fernandalpcosta
+**[Mayla Daiane Correa molinari](https://github.com/maylamolinari)** - *Initial work*
+**[Fernanda Luz P Costa](https://github.com/fernandalpcosta)** - *Initial work*
 
-# License
+## License
 
 Open-source
 
