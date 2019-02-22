@@ -1,5 +1,5 @@
 # Input-to-creat-Heatmap
-Script creates an excel file comparing expression levels of  same gene in all libraries. You can use this script like input to PAGE agriGO and a lot of different heatmap softwares.
+Script creates an excel file comparing expression levels of same gene in all libraries. You can use this script like input to PAGE agriGO and a lot of different heatmap softwares.
 
 Parametric Analysis of Gene Set Enrichment-PAGE (http://bioinfo.cau.edu.cn/agriGO/analysis.php)
 
@@ -14,7 +14,7 @@ Clustvis heatmap and PCA (https://biit.cs.ut.ee/clustvis/)
 Clone this repository into your local machine
 
 ```
-https://github.com/maylamolinari/Input-to-creat-Heatmap.git
+git clone https://github.com/maylamolinari/Input-to-creat-Heatmap.git
 ```
 
 ## Prerequisites
@@ -37,7 +37,8 @@ After you run the join.py script, it will prompt for excel.xlsx file, containing
 ## Authors
 
 **[Mayla Daiane Correa molinari](https://github.com/maylamolinari)** - *Initial work*
-**[Fernanda Luz P Costa](https://github.com/fernandalpcosta)** - *Initial work*
+
+**[Fernanda Luz P Costa](https://github.com/fernandalpcosta)** - *Script developer*
 
 ## License
 
