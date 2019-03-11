@@ -25,7 +25,7 @@ git clone https://github.com/maylamolinari/Input-to-creat-Heatmap.git
 No installation is required, the script is ready to use (executable).
 
 ```
-python join.py excel.xlsx
+python joinFixed.py excel.xlsx
 ```
 
 ## Usage
